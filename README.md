@@ -48,7 +48,7 @@ Evaluate models using the best hyperparameter values on the training data.​
 Determine the model with the highest accuracy.​
 *Confusion Matrix:​ Output the confusion matrix to assess model performance.​
 
-# Conclusion: Will the first stage land?
+# CONCLUSION: Will the first stage land?
 In summary, leveraging machine learning to forecast the successful landing of the Falcon 9 first stage, we utilized a dataset of 18 test samples. Our models demonstrated an impressive accuracy score of 0.8, enabling us to reliably predict that, out of the 18 test samples, 12 are likely to result in a successful landing. This predictive capability is a significant stride in optimizing cost estimation and ultimately enhancing the efficiency of rocket launches, a crucial factor in the ever-evolving landscape of space exploration.
 
 
