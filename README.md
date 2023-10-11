@@ -17,7 +17,7 @@ Falcon 9 launches, a central focus of this capstone, follow a similar trajectory
 
 This capstone project centers on utilizing SpaceX launch data extracted from the SpaceX REST API, particularly focusing on past launch records. The objective is to predict whether SpaceX will attempt to land a rocket, a crucial aspect of their operations. the challenge lies in determining launch prices and predicting first stage reusability, not through conventional rocket science methods, but via data-driven approaches involving machine learning. Gathering insights from public information and utilizing a data-driven approach to determine these critical elements is the primary objective of this project.​
 
-## METHODOLOGY
+# METHODOLOGY
 
 
 ​
